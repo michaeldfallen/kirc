@@ -1,0 +1,10 @@
+GIT
+  remote: git://github.com/Wharenn/puppet-unrealirc.git
+  ref: master
+  sha: cbc501fc3f3afd37838d7fd27c97104e26eda283
+  specs:
+    Wharenn/unrealirc (0.0.1)
+
+DEPENDENCIES
+  Wharenn/unrealirc (>= 0)
+
